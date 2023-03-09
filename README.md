@@ -1,9 +1,5 @@
 # mlz-stylelint-config
 
-stylelint 统一规范配置
-
-# mlz-stylelint-config
-
 stylelint 统一规范配置，集成了 [stylelint-config-standard-scss](https://github.com/stylelint-scss/stylelint-config-standard-scss)、[stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order)、[stylelint-scss](https://github.com/stylelint-scss/stylelint-scss)
 
 > **Note**
