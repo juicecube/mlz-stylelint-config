@@ -1,4 +1,5 @@
 # mlz-stylelint-config
+
 stylelint 统一规范配置
 
 # mlz-stylelint-config
@@ -19,6 +20,14 @@ stylelint 统一规范配置，集成了 [stylelint-config-standard-scss](https:
 ```json
 {
   "extends": ["@mlz/stylelint-config"]
+}
+```
+
+#### 或者新建 `.stylelintrc.js` 文件，并写入下面👇代码
+
+```js
+module.exports = {
+  extends: ['@mlz/stylelint-config']
 }
 ```
 
